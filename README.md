@@ -1,6 +1,10 @@
 ## About me
 Hi <img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am Mona Nogens, an aspiring Web Developer and a lover of all things that are _chocolate_. My hobbies include:
+I am Mona Nogens
+
+![Twitter Follow](https://img.shields.io/twitter/follow/MonaNogens?style=social) 
+
+An aspiring Web Developer and a lover of all things that are _chocolate_. My hobbies include:
 - Running
 - Baking 
 - Petting dogs I encounter on the street. 
