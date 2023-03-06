@@ -11,4 +11,5 @@ Hi I am Mona Nogens, an aspiring Web Developer and a lover of all things that ar
 | Interesting information | More interesting information  |
 | Unbelievably interestng information  | The best information ever shared  |
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mona904)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mona904&theme=maroongold&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
